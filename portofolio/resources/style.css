@@ -1,0 +1,13 @@
+#title{
+  text-transform: capitalize;
+}
+.header{
+  text-align: center;
+  background-color: turquoise;
+}
+.projects{
+font-weight: bold;
+}
+#password{
+  opacity: 0.5;
+}

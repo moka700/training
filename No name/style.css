@@ -1,0 +1,16 @@
+img{
+  height: 150px;
+}
+.description{
+  font-size: 20px;
+}
+.CookTime{
+  font-weight: bold;
+  color: gray;
+}
+.Ingrediants li{
+  list-style: square;
+}
+.HereItIs{
+  color: seagreen;
+}
